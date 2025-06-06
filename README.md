@@ -20,6 +20,5 @@ O sistema é integrado a um backend em Java com Spring Boot, responsável por pr
 # Tecnologias Utilizadas:
 - Frontend: React Native com Expo
 - Backend: Spring Boot (disciplina de Técnicas Avançadas de Programação)
-
-# Navegação: React Navigation
+- Navegação: React Navigation
 
